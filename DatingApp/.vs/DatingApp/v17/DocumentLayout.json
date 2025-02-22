@@ -1,37 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\data\\migrations\\20250220190328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\data\\migrations\\20250220190328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\datingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\datingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\datingapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\datingapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav\\onedrive\\documents\\datingapp\\datingapp\\datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\datingapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\datingapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|c:\\users\\rishav_krishnan\\onedrive - dell technologies\\documents\\datingapp dotnet\\dating--dotnet\\datingapp\\datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4D50EC-1A68-4029-930E-500779D31BEF}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,110 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250220190328_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Data\\Migrations\\20250220190328_InitialCreate.cs",
-              "RelativeDocumentMoniker": "DatingApp\\Data\\Migrations\\20250220190328_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Data\\Migrations\\20250220190328_InitialCreate.cs",
-              "RelativeToolTip": "DatingApp\\Data\\Migrations\\20250220190328_InitialCreate.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBUAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DatingApp\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\WeatherForecast.cs",
+              "RelativeToolTip": "DatingApp\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T19:03:56.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T10:22:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatingApp.http",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\DatingApp.http",
+              "RelativeDocumentMoniker": "DatingApp\\DatingApp.http",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\DatingApp.http",
+              "RelativeToolTip": "DatingApp\\DatingApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-21T10:22:45.103Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DatingApp.http",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\DatingApp.http",
-              "RelativeDocumentMoniker": "DatingApp\\DatingApp.http",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\DatingApp.http",
-              "RelativeToolTip": "DatingApp\\DatingApp.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-20T18:51:40.522Z",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DatingApp\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:13:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "DatingApp\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:55:09.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\appsettings.json",
-              "RelativeDocumentMoniker": "DatingApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\appsettings.json",
-              "RelativeToolTip": "DatingApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T18:51:31.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "DatingApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\appsettings.Development.json",
-              "RelativeToolTip": "DatingApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-20T18:16:06.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "DatingApp\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Data\\DataContext.cs",
-              "RelativeToolTip": "DatingApp\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAYAAAAFAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "DatingApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:53:59.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T07:49:01.468Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DatingApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\DatingApp.csproj",
-              "RelativeDocumentMoniker": "DatingApp\\DatingApp.csproj",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\DatingApp.csproj",
-              "RelativeToolTip": "DatingApp\\DatingApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-20T17:53:25.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "DatingApp\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
-              "RelativeToolTip": "DatingApp\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:29:13.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Program.cs",
               "RelativeDocumentMoniker": "DatingApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Rishav\\OneDrive\\Documents\\DatingApp\\DatingApp\\DatingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Rishav_Krishnan\\OneDrive - Dell Technologies\\Documents\\Datingapp dotnet\\Dating--Dotnet\\DatingApp\\DatingApp\\Program.cs",
               "RelativeToolTip": "DatingApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T17:22:52.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-20T17:22:52.398Z"
             }
           ]
         }

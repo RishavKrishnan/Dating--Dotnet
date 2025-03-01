@@ -5,6 +5,6 @@ namespace DatingApp.Data
 {
     public class DataContext(DbContextOptions options) : DbContext(options)
     {
-        public DbSet<AppUser>Users{ get; set;} //we'll get 
+        public DbSet<AppUser>User{ get; set;} //we'll get 
     }
 }
